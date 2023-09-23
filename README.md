@@ -7,7 +7,7 @@
 ### 主题演示
 [https://demo.yythemes.com/onenice/](https://demo.yythemes.com/onenice/)
 
-![onenice](https://raw.githubusercontent.com/xenice/onenice/master/screenshot.png)
+![onenice](https://raw.githubusercontent.com/yythemes/onenice/master/screenshot.png)
 
 ### 主题特色
 - 响应式设计，完美支持PC端和移动端；
