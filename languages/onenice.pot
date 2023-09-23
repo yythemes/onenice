@@ -1,0 +1,1224 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: onenice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-15 03:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: onenice"
+
+#: functions.php:344
+msgid " days ago"
+msgstr ""
+
+#: functions.php:345
+msgid " hours ago"
+msgstr ""
+
+#: functions.php:346
+msgid " minutes ago"
+msgstr ""
+
+#: functions.php:343
+msgid " months ago"
+msgstr ""
+
+#: functions.php:347
+msgid " seconds ago"
+msgstr ""
+
+#: functions.php:342
+msgid " years ago"
+msgstr ""
+
+#: sidebar.php:53 template-parts/related-posts.php:35
+#: vessel/widgets/PostsWidget.php:116 vessel/widgets/PostsWidget.php:136
+msgid "(no title)"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:244 vessel/login/ajax/LoginAjax.php:294
+msgid ":"
+msgstr ""
+
+#. Description of the theme
+msgid "A simple wordpress theme"
+msgstr ""
+
+#: vessel/vessel.php:163
+msgid "About"
+msgstr ""
+
+#: vessel/about/Config.php:25 vessel/about/Config.php:26
+msgid "About the theme"
+msgstr ""
+
+#: vessel/Elements.php:207 vessel/Elements.php:286
+msgid "Add"
+msgstr ""
+
+#: vessel/optimize/Config.php:167
+msgid "Advanced"
+msgstr ""
+
+#: vessel/Config.php:318 ext/yythemes/Config.php:298
+#: ext/missnice/Config.php:318 ext/yymarket/Config.php:362
+msgid "Archive"
+msgstr ""
+
+#: functions.php:232
+msgid "archive"
+msgstr ""
+
+#: sidebar.php:72
+msgid "Archives"
+msgstr ""
+
+#: vessel/optimize/Config.php:178
+msgid "Auto create post slug"
+msgstr ""
+
+#: vessel/Config.php:169 ext/missnice/Config.php:169
+#: ext/yymarket/Config.php:169
+msgid "Auxiliary functions"
+msgstr ""
+
+#: vessel/login/templates/xenice-login.php:178
+msgid "Back to home"
+msgstr ""
+
+#: functions.php:577
+msgid "Back to top"
+msgstr ""
+
+#: ext/yythemes/Config.php:172
+msgid "Back to top button"
+msgstr ""
+
+#: vessel/optimize/Config.php:99
+msgid "Back-end optimization"
+msgstr ""
+
+#: vessel/Config.php:88 vessel/Config.php:130 ext/yythemes/Config.php:89
+#: ext/yythemes/Config.php:131 ext/missnice/Config.php:88
+#: ext/missnice/Config.php:130 ext/yymarket/Config.php:88
+#: ext/yymarket/Config.php:130
+msgid "Background "
+msgstr ""
+
+#: functions.php:179
+msgid "Buy VIP "
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:184 vessel/login/ajax/LoginAjax.php:185
+#: vessel/login/templates/modal.php:67
+#: vessel/login/templates/xenice-login.php:101
+#: vessel/login/templates/xenice-login.php:124
+#: vessel/login/templates/xenice-login.php:159
+msgid "Captcha"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:86
+msgid "Captcha and email do not correspond"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:82
+msgid "Captcha error"
+msgstr ""
+
+#: vessel/login/Login.php:84
+msgid "Captcha has been sent to the email, may appear in the dustbin oh ~"
+msgstr ""
+
+#: sidebar.php:82
+msgid "Categories"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:216
+msgid "Category:"
+msgstr ""
+
+#: vessel/login/Login.php:76 vessel/login/templates/xenice-login.php:166
+msgid "Change password"
+msgstr ""
+
+#: vessel/optimize/Config.php:171
+msgid "Comments"
+msgstr ""
+
+#. %s is the comments number.
+#: comments.php:28
+#, php-format
+msgid "Comments (%s)"
+msgstr ""
+
+#: vessel/login/templates/modal.php:64
+#: vessel/login/templates/xenice-login.php:98
+#: vessel/login/templates/xenice-login.php:156
+msgid "Confirm password"
+msgstr ""
+
+#: vessel/optimize/Config.php:135
+msgid "Convert the html within the code tag to entity before saving posts"
+msgstr ""
+
+#: vessel/optimize/Config.php:179
+msgid "Create a unique slug the first time you save the article"
+msgstr ""
+
+#: vessel/Config.php:70 vessel/Config.php:112 ext/yythemes/Config.php:71
+#: ext/yythemes/Config.php:113 ext/missnice/Config.php:70
+#: ext/missnice/Config.php:112 ext/yymarket/Config.php:70
+#: ext/yymarket/Config.php:112
+msgid "Dark"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:244 vessel/login/ajax/LoginAjax.php:294
+msgid "Dear "
+msgstr ""
+
+#: vessel/Config.php:161 ext/yythemes/Config.php:162
+#: ext/missnice/Config.php:161 ext/yymarket/Config.php:161
+msgid "Defalut"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:221 vessel/widgets/PostsWidget.php:223
+msgid "Default"
+msgstr ""
+
+#: vessel/Config.php:270 ext/yythemes/Config.php:231
+#: ext/missnice/Config.php:270 ext/yymarket/Config.php:270
+msgid "Delete Theme Copyright"
+msgstr ""
+
+#: ext/yymarket/xcommerce/templates/download-part.php:62
+msgid "Demo url"
+msgstr ""
+
+#: vessel/Elements.php:252 vessel/Elements.php:270
+msgid "Description:"
+msgstr ""
+
+#: ext/yymarket/xcommerce/templates/single.php:63
+msgid "Detailed Introduction"
+msgstr ""
+
+#: vessel/vessel.php:171
+msgid "Developed by <a href=\"https://www.yythemes.com/\">YYThemes</a>."
+msgstr ""
+
+#: vessel/optimize/Config.php:52
+msgid "Disable all built-in widgets"
+msgstr ""
+
+#: vessel/optimize/Config.php:172
+msgid "Disable all comments"
+msgstr ""
+
+#: vessel/optimize/Config.php:70
+msgid "Disable default restapi"
+msgstr ""
+
+#: vessel/optimize/Config.php:64
+msgid "Disable emoji"
+msgstr ""
+
+#: vessel/optimize/Config.php:76
+msgid "Disable opensans"
+msgstr ""
+
+#: vessel/optimize/Config.php:58
+msgid "Disable pingback"
+msgstr ""
+
+#: vessel/optimize/Config.php:105
+msgid "Disable revision"
+msgstr ""
+
+#: vessel/Config.php:414 ext/yythemes/Config.php:394
+#: ext/missnice/Config.php:414 ext/yymarket/Config.php:458
+msgid "Disable Share Buttons"
+msgstr ""
+
+#: vessel/optimize/Config.php:158
+msgid "Disable the front admin bar"
+msgstr ""
+
+#: vessel/optimize/Config.php:123
+msgid "Disable update reminders"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:246
+msgid "Display post date?"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:242
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: ext/yymarket/Config.php:354
+msgid "Display resource quantity"
+msgstr ""
+
+#: vessel/login/templates/modal.php:58
+#: vessel/login/templates/xenice-login.php:92
+msgid "Email"
+msgstr ""
+
+#: vessel/login/Login.php:81
+msgid "Email already exists"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:220
+msgid "Email does not exist"
+msgstr ""
+
+#: vessel/login/Login.php:68
+msgid "Email format error"
+msgstr ""
+
+#: vessel/Config.php:245 vessel/Config.php:252 vessel/Config.php:271
+#: vessel/Config.php:284 vessel/Config.php:352 vessel/Config.php:359
+#: vessel/Config.php:373 vessel/Config.php:380 vessel/Config.php:387
+#: vessel/Config.php:394 vessel/Config.php:401 vessel/Config.php:408
+#: ext/yythemes/Config.php:173 ext/yythemes/Config.php:180
+#: ext/yythemes/Config.php:187 ext/yythemes/Config.php:206
+#: ext/yythemes/Config.php:213 ext/yythemes/Config.php:232
+#: ext/yythemes/Config.php:264 ext/yythemes/Config.php:332
+#: ext/yythemes/Config.php:339 ext/yythemes/Config.php:353
+#: ext/yythemes/Config.php:360 ext/yythemes/Config.php:367
+#: ext/yythemes/Config.php:374 ext/yythemes/Config.php:381
+#: ext/yythemes/Config.php:388 ext/yythemes/Config.php:403
+#: ext/missnice/Config.php:245 ext/missnice/Config.php:252
+#: ext/missnice/Config.php:271 ext/missnice/Config.php:284
+#: ext/missnice/Config.php:352 ext/missnice/Config.php:359
+#: ext/missnice/Config.php:373 ext/missnice/Config.php:380
+#: ext/missnice/Config.php:387 ext/missnice/Config.php:394
+#: ext/missnice/Config.php:401 ext/missnice/Config.php:408
+#: ext/yymarket/Config.php:245 ext/yymarket/Config.php:252
+#: ext/yymarket/Config.php:271 ext/yymarket/Config.php:284
+#: ext/yymarket/Config.php:396 ext/yymarket/Config.php:403
+#: ext/yymarket/Config.php:417 ext/yymarket/Config.php:424
+#: ext/yymarket/Config.php:431 ext/yymarket/Config.php:438
+#: ext/yymarket/Config.php:445 ext/yymarket/Config.php:452
+msgid "Enable"
+msgstr ""
+
+#: vessel/Config.php:221 ext/missnice/Config.php:221
+#: ext/yymarket/Config.php:221
+msgid "Enable back to top button"
+msgstr ""
+
+#: vessel/optimize/Config.php:40
+msgid "Enable classic editor"
+msgstr ""
+
+#: vessel/optimize/Config.php:46
+msgid "Enable classic widget"
+msgstr ""
+
+#: vessel/Config.php:185 ext/yythemes/Config.php:402
+#: ext/missnice/Config.php:185 ext/yymarket/Config.php:185
+msgid "Enable Code Highlight"
+msgstr ""
+
+#: vessel/Config.php:199 ext/missnice/Config.php:199
+#: ext/yymarket/Config.php:199
+msgid "Enable css animation"
+msgstr ""
+
+#: vessel/optimize/Config.php:94
+msgid "Enable gravatar acceleration"
+msgstr ""
+
+#: vessel/Config.php:217 ext/missnice/Config.php:217
+#: ext/yymarket/Config.php:217
+msgid "Enable home sticky posts."
+msgstr ""
+
+#: vessel/optimize/Config.php:129
+msgid "Enable link"
+msgstr ""
+
+#: vessel/Config.php:205 ext/missnice/Config.php:205
+#: ext/yymarket/Config.php:205
+msgid "Enable PhotoSwipe"
+msgstr ""
+
+#: vessel/mail/Config.php:73
+msgid "Enable SMTP Auth service"
+msgstr ""
+
+#: vessel/mail/Config.php:36
+msgid "Enable SMTP email server"
+msgstr ""
+
+#: vessel/Config.php:179 ext/yythemes/Config.php:186
+#: ext/missnice/Config.php:179 ext/yymarket/Config.php:179
+msgid "Enable theme login interface"
+msgstr ""
+
+#: vessel/Config.php:173 ext/yythemes/Config.php:179
+#: ext/missnice/Config.php:173 ext/yymarket/Config.php:173
+msgid "Enable theme widgets"
+msgstr ""
+
+#: vessel/login/Login.php:66 vessel/login/ajax/LoginAjax.php:74
+#: vessel/login/ajax/LoginAjax.php:277
+msgid "Entered passwords differ"
+msgstr ""
+
+#: vessel/login/templates/xenice-login.php:175
+msgid "Error request, please check email for reset password link"
+msgstr ""
+
+#: vessel/Config.php:332 ext/yythemes/Config.php:312
+#: ext/missnice/Config.php:332 ext/yymarket/Config.php:376
+msgid "Excerpt Length"
+msgstr ""
+
+#: vessel/login/Login.php:73
+msgid "execute..."
+msgstr ""
+
+#: functions.php:173
+msgid "Expire time: "
+msgstr ""
+
+#: vessel/optimize/Config.php:147
+msgid "Extend the classic editor buttons"
+msgstr ""
+
+#: vessel/mail/Config.php:80
+msgid "Fill in ssl if SMTP Auth service is enabled, leave blank if not"
+msgstr ""
+
+#: vessel/Config.php:260 ext/yythemes/Config.php:221
+#: ext/missnice/Config.php:260 ext/yymarket/Config.php:260
+msgid "Footer"
+msgstr ""
+
+#: vessel/Config.php:94 vessel/Config.php:136 ext/yythemes/Config.php:95
+#: ext/yythemes/Config.php:137 ext/missnice/Config.php:94
+#: ext/missnice/Config.php:136 ext/yymarket/Config.php:94
+#: ext/yymarket/Config.php:136
+msgid "Foreground"
+msgstr ""
+
+#: vessel/login/templates/xenice-login.php:82
+msgid "Forget password ?"
+msgstr ""
+
+#: vessel/login/templates/modal.php:30
+msgid "Forget password?"
+msgstr ""
+
+#: ext/yythemes/header-product.php:69
+#: ext/yymarket/xcommerce/templates/download-part.php:57
+msgid "Free download"
+msgstr ""
+
+#: vessel/mail/Config.php:42
+msgid "From Name"
+msgstr ""
+
+#: vessel/optimize/Config.php:152
+msgid "Front-end optimization"
+msgstr ""
+
+#: vessel/optimize/Config.php:31
+msgid "General"
+msgstr ""
+
+#: vessel/login/templates/modal.php:69
+msgid "Get captcha"
+msgstr ""
+
+#: vessel/login/Login.php:75 vessel/login/templates/xenice-login.php:131
+msgid "Get New Password"
+msgstr ""
+
+#: vessel/Config.php:211 ext/missnice/Config.php:211
+#: ext/yymarket/Config.php:211
+msgid "Give a like"
+msgstr ""
+
+#: vessel/Config.php:56 ext/yythemes/Config.php:57 ext/missnice/Config.php:56
+#: ext/yymarket/Config.php:56
+msgid "Global"
+msgstr ""
+
+#: vessel/Config.php:59 ext/yythemes/Config.php:60 ext/missnice/Config.php:59
+#: ext/yymarket/Config.php:59
+msgid "Global Colors"
+msgstr ""
+
+#: vessel/optimize/Config.php:34
+msgid "Global optimization"
+msgstr ""
+
+#: vessel/Config.php:234 ext/yythemes/Config.php:195
+#: ext/missnice/Config.php:234 ext/yymarket/Config.php:234
+msgid "Header"
+msgstr ""
+
+#: vessel/Config.php:101 ext/yythemes/Config.php:102
+#: ext/missnice/Config.php:101 ext/yymarket/Config.php:101
+msgid "Header and footer colors"
+msgstr ""
+
+#: functions.php:107 functions.php:127 functions.php:216 search.php:15
+#: ext/yythemes/Config.php:240 ext/yymarket/Config.php:318
+msgid "Home"
+msgstr ""
+
+#: ext/yythemes/Config.php:250
+msgid "Home Excerpt"
+msgstr ""
+
+#: ext/yythemes/Config.php:244
+msgid "Home Title"
+msgstr ""
+
+#. Name of the template
+#: ext/yymarket/Ext.php:31
+msgid "Home-1"
+msgstr ""
+
+#: vessel/widgets/HotPostsWidget.php:29
+msgid "Hot Posts"
+msgstr ""
+
+#: ext/yymarket/xcommerce/templates/single.php:83
+msgid "Hot Recommendation"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.yythemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.yythemes.com/themes/onenice"
+msgstr ""
+
+#: vessel/Config.php:264 ext/yythemes/Config.php:225
+#: ext/missnice/Config.php:264 ext/yymarket/Config.php:264
+msgid "ICP Number"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:244
+msgid "If not you, please ignore this mail."
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:299
+msgid "Illegal request"
+msgstr ""
+
+#: vessel/Elements.php:265
+msgid "Image"
+msgstr ""
+
+#: vessel/Elements.php:254 vessel/Elements.php:272
+msgid "Image Path:"
+msgstr ""
+
+#: ext/yymarket/Config.php:341
+msgid "Last published alias"
+msgstr ""
+
+#: ext/yymarket/Config.php:347
+msgid "Last published description"
+msgstr ""
+
+#: ext/yymarket/Config.php:343
+msgid "Latest publish"
+msgstr ""
+
+#: vessel/Config.php:76 vessel/Config.php:118 ext/yythemes/Config.php:77
+#: ext/yythemes/Config.php:119 ext/missnice/Config.php:76
+#: ext/missnice/Config.php:118 ext/yymarket/Config.php:76
+#: ext/yymarket/Config.php:118
+msgid "Light"
+msgstr ""
+
+#: vessel/ajax/LikeAjax.php:31
+msgid "Liked"
+msgstr ""
+
+#: vessel/Config.php:82 vessel/Config.php:124 ext/yythemes/Config.php:83
+#: ext/yythemes/Config.php:125 ext/missnice/Config.php:82
+#: ext/missnice/Config.php:124 ext/yymarket/Config.php:82
+#: ext/yymarket/Config.php:124
+msgid "Link"
+msgstr ""
+
+#: vessel/Config.php:322 ext/yythemes/Config.php:302
+#: ext/missnice/Config.php:322 ext/yymarket/Config.php:366
+msgid "List Style"
+msgstr ""
+
+#: functions.php:48 functions.php:197 vessel/login/Login.php:59
+#: vessel/login/templates/modal.php:12 vessel/login/templates/modal.php:27
+#: vessel/login/templates/modal.php:46
+#: vessel/login/templates/xenice-login.php:78
+#: vessel/login/templates/xenice-login.php:111
+#: vessel/login/templates/xenice-login.php:135
+#: vessel/login/templates/xenice-login.php:170
+msgid "Login"
+msgstr ""
+
+#: vessel/login/Login.php:63
+msgid "Login..."
+msgstr ""
+
+#: functions.php:191
+msgid "Logout"
+msgstr ""
+
+#: vessel/vessel.php:160
+msgid "Mail"
+msgstr ""
+
+#: vessel/mail/Config.php:60
+msgid "Mail Account"
+msgstr ""
+
+#: vessel/mail/Config.php:99
+msgid "Mail Content"
+msgstr ""
+
+#: vessel/mail/Config.php:66
+msgid "Mail Password"
+msgstr ""
+
+#: vessel/mail/Config.php:26 vessel/mail/Config.php:27
+#: vessel/mail/Config.php:31
+msgid "Mail Settings"
+msgstr ""
+
+#: vessel/mail/Config.php:93
+msgid "Mail Title"
+msgstr ""
+
+#: vessel/Config.php:64 vessel/Config.php:106 ext/yythemes/Config.php:65
+#: ext/yythemes/Config.php:107 ext/missnice/Config.php:64
+#: ext/missnice/Config.php:106 ext/yymarket/Config.php:64
+#: ext/yymarket/Config.php:106
+msgid "Main"
+msgstr ""
+
+#: functions.php:207
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:187
+msgid "My orders"
+msgstr ""
+
+#: vessel/login/templates/xenice-login.php:153
+msgid "New password"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:294
+msgid "New password: "
+msgstr ""
+
+#: single.php:59
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/cards-text.php:33 template-parts/cards-thumbnail.php:45
+msgid "No articles."
+msgstr ""
+
+#: ext/yythemes/index.php:48
+msgid "No products."
+msgstr ""
+
+#: template-parts/related-posts.php:31
+msgid "None .."
+msgstr ""
+
+#: 404.php:24
+msgid "Not Found"
+msgstr ""
+
+#: vessel/widgets/PostsWidget.php:237
+msgid "Number of posts to show:"
+msgstr ""
+
+#: vessel/about/Config.php:38
+msgid "Official website"
+msgstr ""
+
+#. Name of the theme
+msgid "onenice"
+msgstr ""
+
+#: vessel/Config.php:297 vessel/Config.php:303 vessel/Config.php:309
+#: ext/yythemes/Config.php:277 ext/yythemes/Config.php:283
+#: ext/yythemes/Config.php:289 ext/missnice/Config.php:297
+#: ext/missnice/Config.php:303 ext/missnice/Config.php:309
+#: ext/yymarket/Config.php:297 ext/yymarket/Config.php:303
+#: ext/yymarket/Config.php:309
+msgid ""
+"OneNice is a super concise WordPress theme, supporting both Chinese and "
+"English, free open source, no encryption, no redundant code, no "
+"authorization restrictions, can be used freely."
+msgstr ""
+
+#: vessel/Config.php:296 vessel/Config.php:302 vessel/Config.php:308
+#: ext/yythemes/Config.php:276 ext/yythemes/Config.php:282
+#: ext/yythemes/Config.php:288 ext/missnice/Config.php:296
+#: ext/missnice/Config.php:302 ext/missnice/Config.php:308
+#: ext/yymarket/Config.php:296 ext/yymarket/Config.php:302
+#: ext/yymarket/Config.php:308
+msgid "OneNice Theme"
+msgstr ""
+
+#: vessel/vessel.php:157
+msgid "Optimize"
+msgstr ""
+
+#: vessel/Config.php:144 ext/yythemes/Config.php:145
+#: ext/missnice/Config.php:144 ext/yymarket/Config.php:144
+msgid "Page Width"
+msgstr ""
+
+#: vessel/login/templates/modal.php:24 vessel/login/templates/modal.php:61
+#: vessel/login/templates/xenice-login.php:75
+#: vessel/login/templates/xenice-login.php:95
+msgid "Password"
+msgstr ""
+
+#: vessel/login/Login.php:62
+msgid "Password cannot be empty"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:293
+msgid "Password changed successfully"
+msgstr ""
+
+#: vessel/login/Login.php:77
+msgid "Password changed successfully, please remember the password."
+msgstr ""
+
+#: vessel/login/Login.php:69
+msgid "Password length at least 6"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:78
+msgid "Password length should not be less than 6"
+msgstr ""
+
+#: comments.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:70
+msgid "Please enter password"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:50 vessel/login/ajax/LoginAjax.php:129
+msgid "Please enter username"
+msgstr ""
+
+#: vessel/login/templates/xenice-login.php:115
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:60 vessel/login/ajax/LoginAjax.php:142
+msgid "Please fill in your email address"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:294
+msgid ""
+"Please remember the password, you can click the following link to log in: "
+msgstr ""
+
+#: functions.php:224 vessel/Config.php:368 ext/yythemes/Config.php:348
+#: ext/missnice/Config.php:368 ext/yymarket/Config.php:412
+msgid "Posts"
+msgstr ""
+
+#: vessel/optimize/Config.php:185
+msgid "Posts link prefix"
+msgstr ""
+
+#: single.php:58
+msgid "Previous Post"
+msgstr ""
+
+#: ext/yythemes/header-product.php:80 ext/yythemes/header-product.php:84
+#: ext/yythemes/header-product.php:89
+msgid "Pro download"
+msgstr ""
+
+#: vessel/optimize/Config.php:111
+msgid "Profile can also be saved when user email is empty"
+msgstr ""
+
+#: index.php:18 sidebar.php:37 vessel/widgets/RecentPostsWidget.php:27
+msgid "Recent Posts"
+msgstr ""
+
+#: vessel/login/Login.php:60 vessel/login/templates/modal.php:15
+#: vessel/login/templates/modal.php:49 vessel/login/templates/modal.php:73
+#: vessel/login/templates/xenice-login.php:83
+#: vessel/login/templates/xenice-login.php:107
+#: vessel/login/templates/xenice-login.php:136
+#: vessel/login/templates/xenice-login.php:171
+msgid "Register"
+msgstr ""
+
+#: vessel/login/Login.php:64
+msgid "Register..."
+msgstr ""
+
+#: vessel/login/Login.php:71
+msgid "Registered successfully"
+msgstr ""
+
+#: template-parts/related-posts.php:10
+msgid "Related Posts"
+msgstr ""
+
+#: vessel/optimize/Config.php:117
+msgid "Remove backstage at the top of the W icon in the upper left corner"
+msgstr ""
+
+#: vessel/optimize/Config.php:141
+msgid "Remove image attributes while editing posts"
+msgstr ""
+
+#: vessel/optimize/Config.php:88
+msgid "Remove the article link subcategory, leaving only the parent category"
+msgstr ""
+
+#: vessel/optimize/Config.php:82
+msgid "Remove the category link prefix"
+msgstr ""
+
+#: vessel/login/Login.php:80
+msgid "Resend captcha"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:243
+msgid "Reset password"
+msgstr ""
+
+#: vessel/Admin.php:181 vessel/Config.php:51 ext/yythemes/Config.php:52
+#: ext/missnice/Config.php:51 ext/yymarket/Config.php:51
+msgid "Save Changes"
+msgstr ""
+
+#: vessel/Admin.php:97
+msgid "save failed"
+msgstr ""
+
+#: vessel/Admin.php:90
+msgid "save success"
+msgstr ""
+
+#: header.php:64 search.php:16 ext/yythemes/header-home.php:37
+#: ext/yythemes/header-product.php:42 ext/missnice/header.php:50
+#: ext/yymarket/Config.php:337
+msgid "Search"
+msgstr ""
+
+#: ext/yymarket/Config.php:328
+msgid "Search box description"
+msgstr ""
+
+#: ext/yymarket/Config.php:335
+msgid "Search box tips"
+msgstr ""
+
+#: ext/yymarket/Config.php:322
+msgid "Search box title"
+msgstr ""
+
+#: ext/yymarket/Config.php:324
+msgid "Search website resources"
+msgstr ""
+
+#: vessel/Elements.php:162
+msgid "Select"
+msgstr ""
+
+#: vessel/mail/Config.php:89
+msgid "Send"
+msgstr ""
+
+#: vessel/login/Login.php:82 vessel/login/templates/xenice-login.php:103
+msgid "Send captcha"
+msgstr ""
+
+#: vessel/mail/Mail.php:58
+msgid "Send failure"
+msgstr ""
+
+#: vessel/login/Login.php:79
+msgid "Send in..."
+msgstr ""
+
+#: vessel/mail/Config.php:88
+msgid "Send Mail"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:251
+msgid "Send mail failed, please try again later"
+msgstr ""
+
+#: vessel/mail/Mail.php:53
+msgid "Send successfully"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:108
+msgid "Server timeout, please try again later"
+msgstr ""
+
+#: vessel/vessel.php:150
+msgid "Settings"
+msgstr ""
+
+#: vessel/Config.php:358 vessel/Config.php:379 ext/yythemes/Config.php:338
+#: ext/yythemes/Config.php:359 ext/missnice/Config.php:358
+#: ext/missnice/Config.php:379 ext/yymarket/Config.php:402
+#: ext/yymarket/Config.php:423
+msgid "Show Author"
+msgstr ""
+
+#: vessel/Config.php:351 vessel/Config.php:372 ext/yythemes/Config.php:331
+#: ext/yythemes/Config.php:352 ext/missnice/Config.php:351
+#: ext/missnice/Config.php:372 ext/yymarket/Config.php:395
+#: ext/yymarket/Config.php:416
+msgid "Show Date"
+msgstr ""
+
+#: vessel/Config.php:251 ext/yythemes/Config.php:212
+#: ext/missnice/Config.php:251 ext/yymarket/Config.php:251
+msgid "Show Login Button"
+msgstr ""
+
+#: vessel/Config.php:393 ext/yythemes/Config.php:373
+#: ext/missnice/Config.php:393 ext/yymarket/Config.php:437
+msgid "Show Previous/Next Posts"
+msgstr ""
+
+#: vessel/Config.php:400 ext/yythemes/Config.php:380
+#: ext/missnice/Config.php:400 ext/yymarket/Config.php:444
+msgid "Show Related Posts"
+msgstr ""
+
+#: vessel/Config.php:244 ext/yythemes/Config.php:205
+#: ext/missnice/Config.php:244 ext/yymarket/Config.php:244
+msgid "Show Search"
+msgstr ""
+
+#: vessel/Config.php:407 ext/yythemes/Config.php:387
+#: ext/missnice/Config.php:407 ext/yymarket/Config.php:451
+msgid "Show Share"
+msgstr ""
+
+#: vessel/Config.php:386 ext/yythemes/Config.php:366
+#: ext/missnice/Config.php:386 ext/yymarket/Config.php:430
+msgid "Show Tags"
+msgstr ""
+
+#: vessel/Config.php:152 ext/yythemes/Config.php:153
+#: ext/missnice/Config.php:152 ext/yymarket/Config.php:152
+msgid "Site Icon"
+msgstr ""
+
+#: vessel/Config.php:345 ext/yythemes/Config.php:325
+#: ext/missnice/Config.php:345 ext/yymarket/Config.php:389
+msgid "Site Loading Image"
+msgstr ""
+
+#: vessel/Config.php:238 ext/yythemes/Config.php:199
+#: ext/missnice/Config.php:238 ext/yymarket/Config.php:238
+msgid "Site Logo"
+msgstr ""
+
+#: vessel/Config.php:339 ext/yythemes/Config.php:319
+#: ext/missnice/Config.php:339 ext/yymarket/Config.php:383
+msgid "Site Thumbnail"
+msgstr ""
+
+#: vessel/Config.php:279 vessel/Config.php:283 ext/yythemes/Config.php:259
+#: ext/yythemes/Config.php:263 ext/missnice/Config.php:279
+#: ext/missnice/Config.php:283 ext/yymarket/Config.php:279
+#: ext/yymarket/Config.php:283
+msgid "Slides"
+msgstr ""
+
+#: vessel/Config.php:290 ext/yythemes/Config.php:270
+#: ext/missnice/Config.php:290 ext/yymarket/Config.php:290
+msgid "Slides Settings"
+msgstr ""
+
+#: vessel/mail/Config.php:72
+msgid "SMTP Auth"
+msgstr ""
+
+#: vessel/mail/Config.php:35
+msgid "SMTP email server"
+msgstr ""
+
+#: vessel/mail/Config.php:48
+msgid "SMTP Host"
+msgstr ""
+
+#: vessel/mail/Config.php:54
+msgid "SMTP Port"
+msgstr ""
+
+#: vessel/mail/Config.php:79
+msgid "SMTP Secure"
+msgstr ""
+
+#: 404.php:25
+msgid "Sorry, the page you visited has migrated or does not exist"
+msgstr ""
+
+#: vessel/Config.php:158 ext/yythemes/Config.php:159
+#: ext/missnice/Config.php:158 ext/yymarket/Config.php:158
+msgid "Static library CDN"
+msgstr ""
+
+#: template-parts/sticky-posts.php:102 vessel/widgets/StickyPostsWidget.php:29
+msgid "Sticky Posts"
+msgstr ""
+
+#: vessel/login/Login.php:183
+msgid "Successfully copied to clipboard"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Tag Cloud"
+msgstr ""
+
+#: single.php:43
+msgid "Tags: "
+msgstr ""
+
+#: vessel/Config.php:325 ext/yythemes/Config.php:305
+#: ext/missnice/Config.php:325 ext/yymarket/Config.php:369
+msgid "Text"
+msgstr ""
+
+#: vessel/about/Config.php:27
+#, php-format
+msgid "Thanks for using the <a href=\"%s\" target=\"_blank\">%s</a> theme."
+msgstr ""
+
+#: vessel/login/Login.php:184
+msgid "The browser does not support link clicks to copy to the clipboard"
+msgstr ""
+
+#: vessel/login/Login.php:70
+msgid "The captcha cannot be empty"
+msgstr ""
+
+#: vessel/login/Login.php:83
+msgid "The captcha failed to send. Please try again later."
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:198 vessel/login/ajax/LoginAjax.php:272
+msgid "The captcha is incorrect"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:66
+msgid "The email address has been registered"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:63
+msgid "The email address is incorrect"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:145
+msgid "The email format is incorrect"
+msgstr ""
+
+#: vessel/login/Login.php:74
+msgid ""
+"The link has been successfully sent to your email, please check and confirm."
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:56 vessel/login/ajax/LoginAjax.php:133
+msgid "The username has been registered"
+msgstr ""
+
+#: ext/yythemes/index.php:38 ext/yythemes/header-product.php:96
+msgid "Theme demo"
+msgstr ""
+
+#: vessel/optimize/Config.php:26 vessel/optimize/Config.php:27
+msgid "Theme optimization"
+msgstr ""
+
+#: vessel/Config.php:50 vessel/Config.php:52 ext/yythemes/Config.php:51
+#: ext/yythemes/Config.php:53 ext/missnice/Config.php:50
+#: ext/missnice/Config.php:52 ext/yymarket/Config.php:50
+#: ext/yymarket/Config.php:52
+msgid "Theme settings"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:148
+msgid "This email address has been registered, please change it"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:53 vessel/login/ajax/LoginAjax.php:131
+msgid "This username contains an invalid character"
+msgstr ""
+
+#: vessel/Config.php:326 ext/yythemes/Config.php:306
+#: ext/missnice/Config.php:326 ext/yymarket/Config.php:370
+msgid "Thumbnail"
+msgstr ""
+
+#: vessel/Elements.php:250 vessel/Elements.php:268
+#: vessel/widgets/PostsWidget.php:211
+msgid "Title:"
+msgstr ""
+
+#: vessel/Elements.php:248 vessel/Elements.php:266
+msgid "URL:"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:214
+msgid "User does not set email"
+msgstr ""
+
+#: vessel/login/templates/modal.php:55
+#: vessel/login/templates/xenice-login.php:89
+msgid "Username"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:127
+msgid "Username at least 6 characters"
+msgstr ""
+
+#: vessel/login/Login.php:67
+msgid ""
+"Username can only be 6-16 characters composed of alphanumeric or underlined "
+"characters"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:209
+msgid "Username does not exist"
+msgstr ""
+
+#: vessel/login/templates/modal.php:21
+#: vessel/login/templates/xenice-login.php:72
+#: vessel/login/templates/xenice-login.php:121
+msgid "Username or Email"
+msgstr ""
+
+#: vessel/login/Login.php:61 vessel/login/Login.php:72
+msgid "Username or email cannot be empty"
+msgstr ""
+
+#: vessel/login/Login.php:65
+msgid "Username or password wrong"
+msgstr ""
+
+#: vessel/about/Config.php:32
+msgid "Version"
+msgstr ""
+
+#: ext/yythemes/index.php:36
+msgid "View details"
+msgstr ""
+
+#: ext/yymarket/xcommerce/templates/download-part.php:41
+#: ext/yymarket/xcommerce/templates/download-part.php:48
+msgid "VIP download"
+msgstr ""
+
+#: ext/yymarket/xcommerce/templates/download-part.php:83
+msgid "VIP free"
+msgstr ""
+
+#: ext/yymarket/Config.php:350
+msgid ""
+"We will continue to update the latest hot resources and continue to provide "
+"you with more choices!"
+msgstr ""
+
+#: vessel/Config.php:415 ext/yythemes/Config.php:395
+#: ext/missnice/Config.php:415 ext/yymarket/Config.php:459
+msgid ""
+"weibo,wechat,qq,douban,qzone,tencent,linkedin,diandian,google,twitter,"
+"facebook"
+msgstr ""
+
+#: vessel/Config.php:191 ext/missnice/Config.php:191
+#: ext/yymarket/Config.php:191
+msgid ""
+"When the post does not have a thumbnail, use the first image of the post as "
+"a thumbnail"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:244 vessel/login/ajax/LoginAjax.php:294
+msgid "With the best wishes"
+msgstr ""
+
+#. Author of the theme
+msgid "Xenice"
+msgstr ""
+
+#: vessel/widgets/HotPostsWidget.php:30
+msgid "Xenice Hot Posts"
+msgstr ""
+
+#: vessel/login/Login.php:29
+msgid "Xenice Login"
+msgstr ""
+
+#: vessel/widgets/RecentPostsWidget.php:28
+msgid "Xenice Recent Posts"
+msgstr ""
+
+#: vessel/widgets/StickyPostsWidget.php:31
+msgid "Xenice Sticky Posts"
+msgstr ""
+
+#: vessel/ajax/LikeAjax.php:17
+msgid "You already liked it"
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:244
+msgid ""
+"You have just initiated a password reset request, please click the following "
+"link to reset your password:"
+msgstr ""
+
+#: vessel/login/Login.php:78
+msgid "Your operation too fast, please wait a moment."
+msgstr ""
+
+#: vessel/login/ajax/LoginAjax.php:294
+msgid "Your password has been changed successfully, user name: "
+msgstr ""
+
+#: ext/yymarket/Config.php:331
+msgid ""
+"YYSmarket is a virtual resource paid download mall theme developed by "
+"YYThemes"
+msgstr ""
