@@ -1,13 +1,12 @@
 <?php
 /**
- * Page
+ * Template Name: Full width template
  *
- * @package YYThemes
  */
 
 get_header();
 
-if ( !yy_import( 'archive' ) ) {?>
+?>
 <div class="yy-main">
     <div class="yy-group">
         <div class="breadcrumb">
@@ -19,7 +18,7 @@ if ( !yy_import( 'archive' ) ) {?>
     <div class="yy-group">
         <div class="container">
         	<div class="row">
-        		<div class="col-md-8">
+        		<div class="col-md-12">
         		    <div class="post">
         		        <h1 class="post-title"><?php the_title(); ?></h1>
             			<div class="post-meta">
@@ -31,12 +30,11 @@ if ( !yy_import( 'archive' ) ) {?>
         		    </div>
     				<?php comments_template(); ?>
         		</div>
-        		<?php get_sidebar(); ?>
+        		
         	</div><!-- row -->
         </div>
     </div><!-- yy-group -->
 </div><!-- yy-main -->
-	<?php
-}
+<?php
 
 get_footer();

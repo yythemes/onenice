@@ -14,6 +14,7 @@ if ( !yy_import( 'index' ) ) {?>
         	<div class="row">
         		<div class="col-md-8">
         			<?php yy_get( 'enable_slides' ) && get_template_part( 'template-parts/home', 'slides' ); ?>
+        			<?php do_action('yythemes_before_recent_posts'); ?>
         			<h3><?php esc_html_e( 'Recent Posts', 'onenice' ); ?></h3>
         			<?php get_template_part( 'template-parts/cards', yy_get( 'list_style' ) ); ?>
         			<ul class="pagination">

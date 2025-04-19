@@ -21,9 +21,7 @@ if ( !yy_import( 'single' ) ) {?>
         	<div class="row">
         		<div class="col-md-8" >
         			<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-        				<h2 class="post-title"><a href="<?php the_permalink(); ?>"
-        					title="<?php the_title(); ?>"><?php the_title(); ?></a>
-        				</h2>
+        				<h2 class="post-title"><?php the_title(); ?></h2>
         				<div class="post-meta">
         					<?php if ( yy_get( 'single_show_date' ) ) : ?>
         						<span><?php echo get_the_date('Y-m-d'); ?></span>
@@ -31,6 +29,9 @@ if ( !yy_import( 'single' ) ) {?>
         					<?php if ( yy_get( 'single_show_author' ) ) : ?>
         						<span class="card-link md-down-none"><?php echo esc_html( get_the_author_meta( 'display_name', $post->post_author ) ); ?></span>
         					<?php endif; ?>
+        					<?php if (current_user_can('edit_posts')) : ?>
+                    			<a class="card-link" href="<?php echo esc_attr(get_edit_post_link())?>"><?php _e('Edit', 'onenice')?></a>
+                    		<?php endif; ?>
         				</div>
         				<div class="post-content gallery">
         					<?php the_content(); ?>

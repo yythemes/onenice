@@ -78,6 +78,8 @@ class LoginAjax extends Ajax
             $error .= __('Password length should not be less than 6', 'onenice') . ' ';
         }
         
+        isset($_SESSION) || session_start(); 
+        
         if(empty($_POST['captcha']) || empty($_SESSION['xenice_captcha']) || trim(strtolower($_POST['captcha'])) != $_SESSION['xenice_captcha']){
             $error .= __('Captcha error', 'onenice') . ' ';
         }
@@ -178,7 +180,7 @@ class LoginAjax extends Ajax
     		$dscode = $originalcode[rand(0,$countdistrub-1)];
     		$_dscode.=$dscode;
     	}
-    	
+    	isset($_SESSION) || session_start(); 
     	$_SESSION['xenice_captcha']=strtolower($_dscode);
     	$_SESSION['xenice_captcha_email']=$email;
     	$message = __('Captcha', 'onenice') . ': ' .$_dscode;   
@@ -191,7 +193,7 @@ class LoginAjax extends Ajax
         if(!wp_verify_nonce($_POST['forget_password_nonce'],'forget_password')){
             exit;
         }
-        
+        isset($_SESSION) || session_start(); 
         $arr = $_SESSION['forget_password_captcha']??null;
         $time = time() - 60; // The captcha expires in 60 seconds
         if(empty($_POST['captcha']) || empty($arr) || $_POST['captcha'] != $arr['code'] || $arr['time'] < $time){
@@ -265,7 +267,7 @@ class LoginAjax extends Ajax
         if(!wp_verify_nonce($_POST['reset_password_nonce'],'reset_password')){
             exit;
         }
-        
+        isset($_SESSION) || session_start(); 
         $arr = $_SESSION['reset_password_captcha']??null;
         $time = time() - 60; 
         if(empty($_POST['captcha']) || empty($arr) || $_POST['captcha'] != $arr['code'] || $arr['time'] < $time){

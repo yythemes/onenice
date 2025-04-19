@@ -87,7 +87,7 @@ class Admin
             if($result['return'] == 'success'){
                 ?>
                 <div class="notice notice-success is-dismissible"> 
-            	    <p><strong><?php echo $result['message']??$option['title'].' '.esc_html__('save success', 'onenice')?></strong></p>
+            	    <p><strong><?php echo $result['message']??esc_html__('save success', 'onenice')?></strong></p>
                 </div>
                 <?php
             }
@@ -139,7 +139,7 @@ class Admin
         }
         </style>
         <div class="wrap">
-            <h2><?php echo $option['title']??''?></h2>
+            <h2><?php echo apply_filters('xenice_options_title',$option['title']??'',$option['id'],$option['tab_key']??null)?></h2>
             <?php echo isset($option['desc'])?'<div style="margin-top:8px">'.$option['desc'].'</div>':''?>
             
             <?php

@@ -7,7 +7,7 @@
 
 get_header();
 
-if ( !yy_import( 'archive' ) ) {?>
+if ( !yy_import( 'search' ) ) {?>
 <div class="yy-main">
     <div class="yy-group">
         <div class="breadcrumb">

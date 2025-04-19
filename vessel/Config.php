@@ -44,7 +44,7 @@ class Config extends Options
     	 * Filter default values
     	 */
         $defaults = apply_filters('yy_default_values', $defaults);
-
+        
         $this->defaults[] = [
             'id'=>'settings',
             'name'=> esc_html__('Theme settings','onenice'),

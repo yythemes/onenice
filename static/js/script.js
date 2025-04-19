@@ -13,14 +13,17 @@ var xenice = (function(){
 jQuery(function($){
     
     // The bottom absorbs the bottom when the inner space is insufficient.
-    var screenHeight = jQuery(window).height();
-    var divHeight = jQuery('.yy-site').height();
-    if(divHeight+80 < screenHeight){
-        jQuery('.yy-footer').attr('style', 'position:fixed;bottom: 0;left: 0;right: 0;display:block;');
-    }
-    else{
-        jQuery('.yy-footer').attr('style', 'display:block;');
-    }
+    setTimeout(function(){
+        var screenHeight = jQuery(window).height();
+        var divHeight = jQuery('.yy-site').height();
+        if(divHeight+80 < screenHeight){
+            jQuery('.yy-footer').attr('style', 'position:fixed;bottom: 0;left: 0;right: 0;');
+            jQuery('.yy-footer').fadeIn();
+        }
+        else{
+            jQuery('.yy-footer').attr('style', 'display:block;');
+        }
+    },100);
     
     // show sub-menu
     $(".navbar-nav > .menu-item").mouseenter(function(){

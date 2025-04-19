@@ -21,7 +21,7 @@ defined( 'ABSPATH' ) || exit;
                     <input id="username" type="text" class="form-control" name="username" placeholder="<?php esc_attr_e('Username or Email', 'onenice')?>">
                 </div>
                 <div class="form-group">
-                    <input id="password" type="password" class="form-control" name="password" placeholder="<?php esc_attr_e('Password', 'onenice')?>">
+                    <input id="password" type="password" class="form-control" name="password" placeholder="<?php esc_attr_e('Password', 'onenice')?>" autocomplete >
                 </div>
                 <div class="form-group">
                     <button id="login" type="button" class="btn btn-custom"><?php esc_html_e('Login', 'onenice')?></button>
@@ -58,10 +58,10 @@ defined( 'ABSPATH' ) || exit;
                     <input id="r_email" type="text" class="form-control" name="email" placeholder="<?php esc_attr_e('Email', 'onenice')?>">
                 </div>
                 <div class="form-group">
-                    <input id="r_password" type="password" class="form-control" name="password" placeholder="<?php esc_attr_e('Password', 'onenice')?>">
+                    <input id="r_password" type="password" class="form-control" name="password" placeholder="<?php esc_attr_e('Password', 'onenice')?>" autocomplete>
                 </div>
                 <div class="form-group">
-                    <input id="r_repassword" type="password" class="form-control" name="repassword" placeholder="<?php esc_attr_e('Confirm password', 'onenice')?>">
+                    <input id="r_repassword" type="password" class="form-control" name="repassword" placeholder="<?php esc_attr_e('Confirm password', 'onenice')?>" autocomplete >
                 </div>
                 <div class="input-group form-group">
 					<input id="r_captcha" type="text" class="form-control" id="captcha" name="captcha" placeholder="<?php esc_attr_e('Captcha', 'onenice')?>">
